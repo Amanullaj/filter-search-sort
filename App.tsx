@@ -107,8 +107,8 @@ const styles = StyleSheet.create({
     img : {height:30,width:30,margin:10,},
     container : {flexDirection:'row',alignItems:'center',margin:20,height:50,width:"80%",borderWidth:0.7,
 borderRadius:20,},
-container1 : {flex:1,flexDirection:'row',margin:10,backgroundColor:'white',padding:10},
-img1 : {height:150,width:120,alignSelf:'center',},
+container1 : {flex:1,flexDirection:'row',margin:10,backgroundColor:'white',padding:10,borderRadius:10,borderWidth:1},
+img1 : {height:120,width:100,alignSelf:'center',},
 title: {fontSize:20,fontWeight:'600'},
 price : {color:'green',fontSize:18,fontWeight:'600'}
 
